@@ -1,5 +1,4 @@
-# Criando o conteúdo do arquivo README.md formatado em Markdown
-readme_content = """# Sistema de Gestão de Qualidade Industrial (Python)
+# Sistema de Gestão de Qualidade Industrial (Python)
 
 Este projeto é um protótipo de automação digital desenvolvido para o setor industrial. O objetivo é otimizar o processo de inspeção de peças, eliminando falhas manuais e organizando automaticamente o fluxo de aprovação, reprovação e armazenamento em caixas.
 
